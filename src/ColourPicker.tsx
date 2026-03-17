@@ -24,8 +24,7 @@ function ColourPicker() {
 					<input type="color" value={colour} onChange={handleColourChange}/>
 					<button onClick={resetColour}
 					        className="btn btn-primary rounded-xl bg-blue-500 text-white my-2 py-2 border-2 border-solid border-black">
-						Reset
-						colour
+						Reset colour
 					</button>
 				</div>
 			</div>
